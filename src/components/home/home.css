@@ -1,0 +1,18 @@
+.options{
+	margin-top: 150px;
+	
+}
+
+#ver_todos{
+	opacity: 0.4;
+}
+
+#ver_todos,#ingresar,#buscar{
+	opacity: 0.4;
+}
+
+
+#ver_todos:hover,#ingresar:hover, #buscar:hover{
+	opacity: 1;
+	cursor: pointer;
+}

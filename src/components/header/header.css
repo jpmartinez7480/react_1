@@ -1,0 +1,20 @@
+.navbar-inverse{
+	/*background-color: #0074D9;
+	border-color: #0074D9;*/
+	background-color: #11b4f5;
+	border-color: #11b4f5;
+	box-shadow: 1px 1px 1px gray;	
+}
+
+.navbar{
+	border-radius: 0px;
+	min-height: 70px;
+}
+
+.navbar-header a{
+	margin-top: 15px;
+}
+
+.navbar-header .navbar-brand{
+	color: #fff;
+}
